@@ -1,0 +1,45 @@
+.background{
+    background-image: url("background.png");
+    background-size: 115%;
+    overflow: hidden;
+}
+
+.boy{
+    height: 250px;
+    margin-top: 660px;
+    position: absolute;
+}
+
+.score{
+    color: rgb(250, 2, 76);
+    font-size: 45px;
+    font-weight: bold;
+    margin-top: 25px;
+    border: 2px solid black;
+    border-radius: 10px; 
+    padding: 10px; 
+    margin-left: 25px;
+    position: absolute;
+}
+
+.score span{
+    color: rgb(250, 2, 76);
+    font-size: 45px;
+    font-weight: bold;
+    margin-top: 25px;
+    border: 2px solid black;
+    border-radius: 10px; 
+    padding: 10px; 
+    margin-left: 25px;
+    position: absolute;
+}
+
+.flame{
+    height: 150px;
+    position: absolute;
+    margin-top: 761px;
+    margin-left: 500px;
+}
+
+
+
